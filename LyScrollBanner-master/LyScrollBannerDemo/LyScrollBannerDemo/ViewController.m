@@ -11,7 +11,7 @@
 #import "LyScrollBanner.h"
 
 @interface ViewController ()<LyScrollBannerDelegate>
-
+／／／／／
 @end
 
 @implementation ViewController
